@@ -1,0 +1,6 @@
+## https://developers.cloudflare.com/workers/wrangler/configuration/
+# Top-level configuration
+name = "my-worker"
+main = "./workers/index.js"
+compatibility_date = "2024-03-21"
+
