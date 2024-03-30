@@ -18,4 +18,6 @@ https://dash.cloudflare.com/613ada635a130348cdc29c08b2c00821/pages/view/hello-wo
 
 ## misc
 
-Also hosted on Github pages for comparison: https://www.offirmo.net/hello-world--cloudflare--2024/
+Also hosted on GitHub pages for comparison: https://www.offirmo.net/hello-world--cloudflare--2024/
+
+bump
